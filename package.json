@@ -1,0 +1,16 @@
+{
+    "name": "convertitore-coordinate",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "canvg": "0.0.6",
+        "commander": "^2.5.0",
+        "gcanvas": "0.0.*",
+        "img2gcode": "^1.2.0",
+        "progress": "^2.0.3"
+    }
+}
